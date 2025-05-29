@@ -1,6 +1,7 @@
 {
     "pack":{
         "description": "Making minecraft more chaotic. Minecraft chaos edition avaliable for 1.21",
-        "pack_format": 48
+        "pack_format": 71,
+        "supported_formats":{"min_inclusive":48,"max_inclusive": 71 }
     }
 }
